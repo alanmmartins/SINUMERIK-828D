@@ -31,7 +31,8 @@ FIGMA e opensourse ecoolab so necessita de acesso à internet
 
 ## 📦 Implantação
 
-https://www.figma.com/design/Z1pTHZgoKud7kQNApam0q3/828d?node-id=0-1&t=dsZ5drD7xUqCve1n-0
+
+* [Figma](https://www.figma.com/design/Z1pTHZgoKud7kQNApam0q3/828d?node-id=0-1&t=dsZ5drD7xUqCve1n-0)
 
 sketchup v20
 
@@ -41,7 +42,6 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 * [Figma](https://www.figma.com/) -  framework web 
 * [Sketchup](https://www.sketchup.com/en?utm_source=google&utm_medium=paid_search&utm_campaign=SU_Brand_Search_BR) - Gerente de Dependência MECANICA
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
 
 ## 🖇️ Colaborando✒️
 Alan Autservice
