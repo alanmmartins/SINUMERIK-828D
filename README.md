@@ -43,12 +43,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [Figma](https://www.figma.com/) -  framework web 
 * [Sketchup](https://www.sketchup.com/en?utm_source=google&utm_medium=paid_search&utm_campaign=SU_Brand_Search_BR) - Gerente de Dependência MECANICA
 
-## 🖇️ Colaborando✒️
-Alan Autservice
-Antõnio Autservice
-Evandro Autservice
-Marcelo Autservice
-Paulo Autservice
+
 
 ---
 ⌨️ 
